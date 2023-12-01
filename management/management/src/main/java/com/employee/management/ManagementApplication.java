@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ManagementApplication {
 
 	public static void main(String[] args) {
-//		System.out.println("Hi Management");
+		System.out.println("Hi Management");
 		SpringApplication.run(ManagementApplication.class, args);
 	}
 
